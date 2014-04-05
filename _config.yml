@@ -1,11 +1,11 @@
-name: Fabrício Ronchi - Blog
+name: Ira Blossom
 markdown: redcarpet
 pygments: true
-name: Fabrício Ronchi
-url: http://fabricioronchi.com
-domain: fabricioronchi.com
+name: Ira Blossom
+url: http://ibloss.github.io
+domain: ibloss.github.io
 author :
-  name : Fabrício Ronchi
-  email : fabricioronchii@gmail.com
-  github : https://github.com/FabricioRonchi
-  twitter : https://twitter.com/FRonchii
+  name : Ira Blossom
+  email : irablossom@gmail.com
+  github : https://github.com/ibloss
+  twitter : https://twitter.com/ibloss
