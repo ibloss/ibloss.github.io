@@ -1,4 +1,4 @@
 Blog
 ====
 
-Blog Pessoal.
+Personal guthub site of Ira Blossom.
