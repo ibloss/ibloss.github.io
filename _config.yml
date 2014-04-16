@@ -1,11 +1,11 @@
 name: Ira Blossom
 markdown: redcarpet
 pygments: true
-name: Ira Blossom
+name: Ira Blossom | Labs
 url: http://ibloss.github.io
 domain: ibloss.github.io
 author :
-  name : Ira Blossom
-  email : irablossom@gmail.com
-  github : https://github.com/ibloss
-  twitter : https://twitter.com/ibloss
+name : Ira Blossom
+email : irablossom@gmail.com
+github : https://github.com/ibloss
+twitter : https://twitter.com/ibloss
