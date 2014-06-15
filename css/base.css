@@ -117,8 +117,8 @@ li {
 .hero {
   background-color: #2B2B2B;
   background-size: cover;
-  height: 200px;
-  box-shadow: inset 0 0 15px rgba(0,0,0,.5);
+  /*height: 200px;*/
+  /*box-shadow: inset 0 0 15px rgba(0,0,0,.5);*/
 }
 
 .aside {
