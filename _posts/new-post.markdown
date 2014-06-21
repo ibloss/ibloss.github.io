@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New Post"
+date:   2014-06-21 13:00:00
+categories: Blog
+---
+
+<h3>Hello World</h3>
+This is a test for creating a new post.
