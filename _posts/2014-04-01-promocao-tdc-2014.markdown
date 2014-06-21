@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "TDC2014 - Novidades"
+title:  "Test Post"
 date:   2014-04-01 13:00:00
 categories: Blog
 ---
 
-<h3>Inscrição Promocional</h3>
-Pois bem, a inscrição promocional do <a href="http://www.thedevelopersconference.com.br" target="blank">TDC2014</a> foi prorrogada até o dia 10 de Abril.
+<h3>Hello World</h3>
+This is a test post.
 
 <img src="/img/posts/tdc2014Inscricao.jpg" />
 
