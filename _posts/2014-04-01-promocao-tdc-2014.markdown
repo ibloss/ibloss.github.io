@@ -1,15 +1,9 @@
 ---
 layout: post
 title:  "Test Post"
-date:   2014-04-01 13:00:00
+date:   2014-06-25 13:00:00
 categories: Blog
 ---
 
 <h3>Hello World</h3>
 This is a test post.
-
-<img src="/img/posts/tdc2014Inscricao.jpg" />
-
-Confira meu posto sobre o <a href="http://fabricioronchi.com/blog/2014/03/17/the-developers-conference.html" target="blank">TDC2014</a>.
-
-Qualquer dúvida, chama aí no <a href="https://twitter.com/FRonchii" target="blank">Twitter</a>!
